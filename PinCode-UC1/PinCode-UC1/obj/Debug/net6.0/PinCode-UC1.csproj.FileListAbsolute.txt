@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\bin\Debug\net6.0\PinCode-UC1.exe
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\bin\Debug\net6.0\PinCode-UC1.deps.json
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\bin\Debug\net6.0\PinCode-UC1.runtimeconfig.json
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\bin\Debug\net6.0\PinCode-UC1.dll
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\bin\Debug\net6.0\PinCode-UC1.pdb
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.AssemblyInfo.cs
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.dll
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\refint\PinCode-UC1.dll
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.pdb
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\PinCode-UC1.genruntimeconfig.cache
+C:\Users\USER\source\BL\PincodeNdEmailValidation\PinCode-UC1\PinCode-UC1\obj\Debug\net6.0\ref\PinCode-UC1.dll
